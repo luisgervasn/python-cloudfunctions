@@ -95,7 +95,7 @@ For local development, you can use the Cloud Functions Framework:
 3. For the storage function, testing locally requires mocking events, which is more complex.
 
 ## Contributing
-
+,
 Feel free to modify the functions or add new ones. Ensure to update `requirements.txt` if new dependencies are added.
 
 ## License
